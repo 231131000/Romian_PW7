@@ -1,0 +1,42 @@
+:root {
+  height: 440px;
+  width: 1024px;
+  margin: 0 auto;
+  background-color: #F3D0D7;
+}
+
+main article p span {
+    height: 202px;
+    width: 50px;
+    color: blueviolet;
+}
+
+p.p1 {
+  padding: 20px !important;
+  border: 0px solid #eedd9b;
+  background-color: #FFEFEF;
+  font-weight: 100;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main article p span {
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+  color: aquamarine;
+}
+
+main article p span {
+    padding: 20px !important;
+    border: 0px solid #eedd9b;
+  color: cornflowerblue;
+}
+
+section article p span {
+  color: rgb(28, 156, 224);
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
